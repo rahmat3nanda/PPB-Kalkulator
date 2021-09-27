@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kalkukator/menu_resto_ku.dart';
+import 'package:kalkukator/kalkulator.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

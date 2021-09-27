@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:kalkukator/common/constans.dart';
-import 'package:kalkukator/common/constans/data.dart';
 import 'package:kalkukator/common/styles.dart';
 import 'package:kalkukator/data/sp_data.dart';
 import 'package:kalkukator/model/app/singleton_model.dart';
